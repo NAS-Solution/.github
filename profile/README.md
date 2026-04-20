@@ -1,64 +1,106 @@
 # 🚀 Nas Solutions
 
 **Modern software solutions for businesses.**
+**Soluciones de software modernas para empresas.**
 
+---
+
+## 🌍 About / Sobre nosotros
+
+**EN**
+At **Nas Solutions**, we build modern digital solutions for businesses looking to grow with efficient, scalable, and well-designed technology.
+
+**ES**
 En **Nas Solutions** desarrollamos soluciones digitales modernas para empresas que buscan crecer con tecnología eficiente, escalable y bien diseñada.
 
 ---
 
-## 💡 Qué hacemos
+## 💡 What we do / Qué hacemos
 
+**EN**
+We design and develop:
+
+* 🌐 Modern websites — fast, optimized and conversion-focused
+* 📱 Custom applications — tailored to each business
+* ⚙️ Automation systems — improving efficiency and reducing manual work
+* 🛠️ 24/7 monitoring & maintenance — stability, security and full control
+
+**ES**
 Creamos y desarrollamos:
 
-* 🌐 **Webs modernas** — rápidas, optimizadas y orientadas a conversión
-* 📱 **Apps a medida** — adaptadas a las necesidades de cada negocio
-* ⚙️ **Automatizaciones** — optimizamos procesos para ahorrar tiempo y reducir errores
-* 🛠️ **Mantenimiento y monitorización 24/7** — control total y estabilidad continua
+* 🌐 Webs modernas — rápidas, optimizadas y orientadas a conversión
+* 📱 Apps a medida — adaptadas a cada negocio
+* ⚙️ Automatizaciones — optimizamos procesos y reducimos tareas manuales
+* 🛠️ Mantenimiento y monitorización 24/7 — estabilidad, seguridad y control total
 
 ---
 
-## 🧠 Nuestro enfoque
+## 🧠 Our approach / Nuestro enfoque
 
-No trabajamos con soluciones genéricas.
-Cada proyecto se construye pensando en:
+**EN**
+We don’t build generic solutions. Every project is crafted with a focus on:
 
-* necesidades reales del cliente
-* escalabilidad a futuro
+* real business needs
+* scalability
+* performance and efficiency
+* clean, modern design
+
+Our goal is simple: **build digital systems that actually deliver value.**
+
+**ES**
+No trabajamos con soluciones genéricas. Cada proyecto se construye pensando en:
+
+* necesidades reales del negocio
+* escalabilidad
 * rendimiento y eficiencia
 * diseño moderno y profesional
 
-Nuestro objetivo es crear **sistemas digitales que realmente aporten valor**.
+Nuestro objetivo es claro: **crear sistemas digitales que aporten valor real.**
 
 ---
 
-## 🔧 Tecnologías
+## 🔧 Tech / Tecnologías
 
+**EN**
+We work with modern technologies to ensure scalability and quality:
+
+* React / Next.js
+* API integrations
+* Automation systems
+* Scalable architectures
+
+**ES**
 Trabajamos con tecnologías modernas para garantizar calidad y escalabilidad:
 
-* Frontend moderno (React, Next.js)
-* Backend escalable
+* React / Next.js
 * Integraciones API
 * Automatización de procesos
-* Sistemas conectados
+* Arquitecturas escalables
 
 ---
 
-## 📬 Contacto
+## 📬 Contact / Contacto
 
-Si tienes una idea o necesitas una solución digital:
-
-* 🌍 Web: https://nassolutions.es
+* 🌍 Website: https://nassolutions.es
 * 📧 Email: [contacto@nassolutions.es](mailto:contacto@nassolutions.es)
 
 ---
 
-## 🤝 Colaboraciones
+## 🤝 Collaboration / Colaboraciones
 
-Estamos abiertos a colaborar en proyectos interesantes, startups o soluciones innovadoras.
+**EN**
+We’re open to collaborating on startups, digital products, and innovative solutions.
+
+**ES**
+Estamos abiertos a colaborar en proyectos, startups y soluciones innovadoras.
 
 ---
 
-## ⭐ Sobre nosotros
+## ⭐ Nas Solutions
 
-Nas Solutions es un equipo enfocado en construir soluciones digitales claras, modernas y efectivas.
-Menos complejidad, más resultados.
+**EN**
+Clear solutions. Modern technology. Real results.
+
+**ES**
+Soluciones claras. Tecnología moderna. Resultados reales.
+
